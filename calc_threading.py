@@ -19,7 +19,7 @@ def get_random_number(lowest, highest):
     :param highest: the highest value that can be randomly generated
     :return: a random number
     """
-    random_number = random.randrange(1, 10)
+    random_number = random.randrange(lowest, highest)
     return random_number
 
 
