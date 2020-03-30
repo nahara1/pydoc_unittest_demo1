@@ -64,12 +64,10 @@ def divide(num1, num2):
 
 
 if __name__ == "__main__":
-    int1 = 3
-    int2 = 2
     number1 = random.randrange(1, 10)
-    print("Random number #1 btw 1-10: ", number1)
+    print("Random number #1: ", number1)
     number2 = random.randrange(10, 20)
-    print("Random number #2 btw 1-10: ", number2)
+    print("Random number #2: ", number2)
 
     start_time = time.time()
 
