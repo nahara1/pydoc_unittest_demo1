@@ -3,9 +3,8 @@
 # Course: IST 440W - 001
 # Author: Nahara
 # Date Developed: 3/28/2020
-# Last Date Changed: 3/28/2020
-# Rev 1
-
+# Last Date Changed: 3/29/2020
+# Rev 2
 
 import time
 import random
